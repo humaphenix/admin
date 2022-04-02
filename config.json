@@ -1,0 +1,9 @@
+{
+	"ip":"free13.falix.cc:40221",
+	"port": 40221,
+	"name": "admin",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register badr1234 badr1234",
+	"login-cmd":"/login badr1234"
+}
